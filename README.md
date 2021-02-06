@@ -1,4 +1,4 @@
-Helm chart with added pl_PL locale on linux and changed user id (1000640000)
+#Helm chart with added pl_PL locale on linux and changed user id (1000640000)
 
 # PostgreSQL HA
 
